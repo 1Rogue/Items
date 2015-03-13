@@ -1,0 +1,5 @@
+name: Item
+main: com.gmail.santiagoelheroe.Main
+version: 1.0
+commands:
+    item:
